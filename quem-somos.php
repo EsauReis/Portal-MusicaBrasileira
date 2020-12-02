@@ -129,7 +129,7 @@
                     class=" img-fluid col-lg-6 col-md-4 col-sm-6" />
                 <p class="col-lg-6 col-md-8 col-sm-6">
                     <b>Nome:</b> Rodrigo de Moraes
-                    <br><b>Biografia:</b> 26 anos, trabalho em escola a 7 anos, estudando Sistemas para Internet, moro
+                    <br><b>Biografia:</b> 26 anos, trabalho em uma escola a 7 anos, estudando Sistemas para Internet, moro
                     em São Roque -SP
                     <br><b>RA:</b> 2650832013030
                     <br><b>Função no Grupo:</b> Coder.

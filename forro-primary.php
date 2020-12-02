@@ -6,19 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <!-- <link rel="icon" href="images/favico.ico"> -->
+    <link rel="icon" href="images/favico.ico">
     <title>Forró</title>
 
-    <!-- Normalize CSS para resstar os defaults do browser  -->
+    <!--Folhas de estilo, css próprio por último  -->
     <link rel="stylesheet" href="css/normalize.css" />
-    <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css" />
-
-    <!-- O meu vem por último pq estamos reescrevendo as regras dos anteriores -->
     <link href="/css/meu.css" rel="stylesheet" type="text/css"/>
     <link rel="stylesheet" href="css/base.css">
     <link rel="stylesheet" href="css/forro.css">
-
+    <!-- Links para as fontes do título -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
 </head>
@@ -38,39 +35,40 @@
             </div>
         </header>
       
-          
-        <section class="row section-inicial">
+        <article>
+          <section class="row section-inicial">
+              <div class="col-lg-6 col-md-6 col-sm-12">
+                <img src="images/forro-topo.jpg" class="img-fluid musica-brasileira imgs-prima rounded" alt="">
+              </div>  
             <div class="col-lg-6 col-md-6 col-sm-12">
-               <img src="images/forro-topo.jpg" class="img-fluid musica-brasileira imgs-prima rounded" alt="">
-            </div>  
-          <div class="col-lg-6 col-md-6 col-sm-12">
-            <h1>Forró</h1>
-            <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
-          </div>
-        </section>
-        
+              <h1>Forró</h1>
+              <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
+            </div>
+          </section>
+          
 
-        <section class="row section-variedades">
-            <div class="col-lg-4 col-md-6">
-              <h2>Sanfoneiro</h2>
-              <img src="images/variedades01.jpg" class="img-fluid imgs-prima rounded" alt="">
-              <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
-            </div>
-            <div class="col-lg-4 col-md-6">
-              <h2>Dança</h2>
-              <img src="images/variedades02.jpg" class="img-fluid imgs-prima rounded" alt="">
-              <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <h2>Alegria</h2>
-                <img src="images/variedades03.jpg" class="img-fluid imgs-prima rounded" alt="">
+          <section class="row section-variedades">
+              <div class="col-lg-4 col-md-6">
+                <h2>Sanfoneiro</h2>
+                <img src="images/variedades01.jpg" class="img-fluid imgs-prima rounded" alt="">
                 <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
-                
-            </div>
+              </div>
+              <div class="col-lg-4 col-md-6">
+                <h2>Dança</h2>
+                <img src="images/variedades02.jpg" class="img-fluid imgs-prima rounded" alt="">
+                <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
+              </div>
+              <div class="col-lg-4 col-md-6">
+                  <h2>Alegria</h2>
+                  <img src="images/variedades03.jpg" class="img-fluid imgs-prima rounded" alt="">
+                  <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
+                  
+              </div>
 
 
-        </section>
-
+          </section>
+        </article>
+        
         <section class="row">
           <div class="offset-lg-2 co-lg-8 offset-md-2 col-md-8 col-sm-12">
 
