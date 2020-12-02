@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
+    <link rel="icon" href="images/favico.ico">
 
     <title>Musica Brasileira</title>
 
@@ -22,7 +23,8 @@
     <!-- Links das fontes aqui --------------------------------------------- -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
-
+     
+    
     
 </head>
 

@@ -1,3 +1,20 @@
+.btn-success {
+    text-align: center;
+    background-color: #FCFE38 !important;
+    border-color: #FCFE38 !important;
+
+}
+
+.botao-vejamais {
+    margin-bottom: 30px;
+}
+
+
+.positionbutton {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
 
 h1,
 h2,
@@ -5,7 +22,7 @@ h3 {
     font-family: 'Fjalla One', sans-serif;
     color: #FCFE38;
     font-weight: bold;
-    
+
 }
 
 h1,
@@ -16,14 +33,16 @@ h2 {
     background-color: #9C38FF;
     text-align: center;
 }
-p{
+
+p {
     font-size: 1.2em;
     font-family: "bree serif", serif;
 }
 
-.rubel{
+.rubel {
     margin-top: 10px;
 }
+
 .btn-success {
     background-color: #a0a143 !important;
     border-color: #a0a143 !important;
@@ -34,8 +53,3 @@ p{
     margin-bottom: 30px;
 }
 
-.positionbutton {
-    text-align: center;
-    margin-top: 60px;
-    margin-bottom: 30px;
-}

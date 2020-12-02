@@ -6,25 +6,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="projeto integrador - protal">
     <meta name="author" content="Lucas Jun Ichi Ohara">
-
-        <!-- Links das fontes aqui --------------------------------------------- -->
-        <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="icon" href="images/favico.ico">
+    <!-- Links das fontes aqui --------------------------------------------- -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet">
 
     <title>MPB</title>
 
-   
+
     <link rel="stylesheet" href="css/normalize.css" />
-   
+
     <link rel="stylesheet" href="css/bootstrap.min.css" />
 
     <link rel="stylesheet" href="css/MPB.css" />
 
     <link rel="stylesheet" href="css/base.css" />
 
-    
 
 </head>
 
@@ -45,15 +44,14 @@
             </section>
 
 
-   
-              <section class="col-lg-4 col-md-6 col-sm-12">
+            <section class="col-lg-4 col-md-6 col-sm-12">
                 <img class="img-fluid" src="images/gil2.jpg" width="100%">
                 <h3>gilberto gil</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
                     accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem ex
                     vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.
-                    Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis vulputate
-                    .</p>
+                    Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis vulputate.
+                </p>
             </section>
             <section class="col-lg-4 col-md-6 col-sm-12">
                 <img class="img-fluid" src="images/tim2.jpg" width="100%">
@@ -61,8 +59,8 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
                     accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem ex
                     vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.
-                    Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis vulputate
-                    .</p>
+                    Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis vulputate.
+                </p>
 
             </section>
             <section class="col-lg-4 col-md-12 col-sm-12">
@@ -71,84 +69,101 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
                     accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem ex
                     vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.
-                    Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis vulputate
-                    /p>
+                    Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis vulputate.
+                </p>
             </section>
-         </div>   
+        </div>
+
+        <div class="row">
+
+            <section class="col-lg-4 col-md-6 col-sm-12">
+                <img class="img-fluid" src="images/chicobuarque.jpg" width="100%">
+                <h3>Chico Buarque</h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
+                    accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem
+                    ex
+                    vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.
+                    Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis
+                    vulputate.
+                </p>
+            </section>
+            <section class="col-lg-4 col-md-6 col-sm-12">
+                <img class="img-fluid" src="images/rita_lee.jpg" width="100%">
+                <h3>Rita Lee</h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
+                    accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem
+                    ex vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.
+                    Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis
+                    vulputate.
+                </p>
+
+            </section>
+            <section class="col-lg-4 col-md-12 col-sm-12">
+                <img class="img-fluid" src="images/mariagadu.jpg" width="100%">
+                <h3>Maria Gadu</h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
+                    accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem
+                    ex vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in
+                    Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis
+                    vulputate.
+                </p>
+            </section>
 
             <div class="row">
 
 
+                <section class="col-lg-12">
 
-                <section class="col-lg-4 col-md-6 col-sm-12">
-                    <img class="img-fluid" src="images/chicobuarque.jpg" width="100%">
-                    <h3>Chico Buarque</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
-                        accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem
-                        ex
-                        vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.
-                        Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis
-                        vulputate
-                        .</p>
-                </section>
-                <section class="col-lg-4 col-md-6 col-sm-12">
-                    <img class="img-fluid" src="images/rita_lee.jpg" width="100%">
-                    <h3>Rita Lee</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
-                        accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem
-                        ex
-                        vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.
-                        Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis
-                        vulputate
-                        .</p>
+                    <h2>Galeria de Imagens </h2>
 
                 </section>
+
                 <section class="col-lg-4 col-md-12 col-sm-12">
-                    <img class="img-fluid" src="images/mariagadu.jpg" width="100%">
-                    <h3>Maria Gadu</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
-                        accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem
-                        ex
-                        vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.
-                        Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis
-                        vulputate
-                        /p>
+
+                    <img class="img-fluid" src="images/Ana.jpg" height="100%" width="100%">
+
                 </section>
 
+                <section class="col-lg-4 col-md-6 col-sm-12">
+
+                    <img class="img-fluid" src="images/criolo.jpg" height="100%" width="100%">
+
+                </section>
+
+                <section class="col-lg-4 col-md-6 col-sm-12">
+
+                    <img class="img-fluid" src="images/lenine.jpg" height="100%" width="100%">
+
+                </section>
+
+            </div>
+
+            <div class="row">
+
+                <section class="col-lg-4 col-md-12 col-sm-12">
+
+                    <img class="img-fluid" src="images/djavan.jpg" height="100%" width="100%">
+
+                </section>
+
+                <section class="col-lg-4 col-md-6 col-sm-12">
+
+                    <img class="img-fluid" src="images/jobim.jpg" height="100%" width="100%">
+
+                </section>
+
+                <section class="col-lg-4 col-md-6 col-sm-12">
+
+                    <img class="img-fluid" src="images/iorc.jpg" height="100%" width="100%">
+
+                </section>
+
+            </div>
 
 
-
-                <div class="row">
-
-
-                     <section class="col-lg-12"> <h2>Galeria de Imagens </h2></section>
-                    <section class="col-lg-4 col-md-12 col-sm-12">
-     
-                      <img class="img-fluid" src="images/Ana.jpg" height="100%" width="100%" >
-     
-                    </section>
-     
-                 
-                 
-               
-                    <section class="col-lg-4 col-md-6 col-sm-12">
-                      <img class="img-fluid" src="images/iorc.jpg" height="100%" width="100%">
-     
-                    </section>
-     
-                    
-
-                 
-                    <section class="col-lg-4 col-md-6 col-sm-12">
-                      <img class="img-fluid" src="images/criolo.jpg" height="100%" width="100%">
-     
-                    </section>
-     
-                  
-
-
-
-                </div>
 
                 <div class="row">
 
@@ -210,16 +225,17 @@
             </div>
             
             <?php
+
             include 'includes/footer.php';
             ?>
 
-
-            <!-- Bootstrap core JavaScript
+    </div>
+    <!-- Bootstrap core JavaScript
     ================================================== -->
-            <!-- Placed at the end of the document so the pages load faster -->
-            <script src="js/jquery-3.3.1.slim.min.js"></script>
-            <script src="js/popper.min.js"></script>
-            <script src="js/bootstrap.min.js"></script>
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery-3.3.1.slim.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
 
 </body>
 
