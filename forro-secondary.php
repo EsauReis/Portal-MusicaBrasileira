@@ -44,7 +44,7 @@
             </div>
   
             <div class="col">
-              <img src="images/forro-secondary-topo.jpg" class="img-fluid imgs-prima rounded musica-brasileira" alt="">
+              <img src="images/forro-secondary-topo.jpg" class="img-fluid imgs-prima rounded musica-brasileira" alt="Três artistas do forró reunidos">
             </div>
           </div>
           

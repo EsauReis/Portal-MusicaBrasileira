@@ -41,3 +41,11 @@ a:link {
 h1, h2{
     color: #36586b;
 }
+
+/* Imagens --borda e arrendondamento ------------------------------------------  */
+
+.img-mod{
+    box-shadow: 3px 5px 4px  #36586b;;
+    border: solid black 1px;
+    border-radius: 5px;
+}

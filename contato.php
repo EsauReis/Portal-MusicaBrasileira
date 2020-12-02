@@ -28,18 +28,18 @@
         <div class="container">
             <div class="container">
     
-                <?php
+              <?php
                 include 'includes/nav.php';
-                ?>
+              ?>
 
-              <div class="row">
-                <header class="col-12 col-md-12 col-sm-12">
+              <header class="row">
+                <div class="col-12 col-md-12 col-sm-12">
                     <img src="images/header.jpg" width="100%" height="300" />
-                </header>
-            </div>
+                </div>
+             </header>
 
             <div class="row article-contato">
-                <div class="col-lg-8 offset-lg-0 col-md-8 offset-md-2 col col-sm-12 offset-sm-0">
+              <article class="col-lg-8 offset-lg-0 col-md-8 offset-md-2 col col-sm-12 offset-sm-0">
                     <h1>Entre em contato</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae perspiciatis amet aliquam, animi, recusandae commodi quae repellat dignissimos veritatis molestiae temporibus deleniti. Excepturi perspiciatis deleniti, eos nam quae laboriosam inventore.</p>
                     <form>
@@ -68,17 +68,17 @@
                         </div>
                             <button type="submit" class="btn btn-dark mx-auto d-block">Enviar</button>
                       </form>
-                </div>
+              </article>
 
-                <div class="col-lg-4 d-none d-lg-block d-xl-block">
-                    <img src="images/no_img.jpg" alt="" class="img-fluid" width="100%" height="100%">
-                </div>
+                <aside class="col-lg-4 d-none d-lg-block d-xl-block">
+                    <img src="images/google-maps.jpg" alt="Logo do Google Maps" class="img-fluid img-maps" width="100%" height="100%">
+                </aside>
             </div>
 
           
           
             <?php
-            include 'includes/footer.php';
+              include 'includes/footer.php';
             ?>
           </div>
         </div>
